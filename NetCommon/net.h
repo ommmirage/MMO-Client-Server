@@ -1,4 +1,6 @@
 #pragma once
 
-#include "net_comon.h"
+#include "net_common.h"
 #include "net_message.h"
+#include "net_tsqueue.h"
+#include "net_client.h"
